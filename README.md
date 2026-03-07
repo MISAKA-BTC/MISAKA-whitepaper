@@ -1,5 +1,7 @@
 # Misaka Network
 
+[English](README.md) | [日本語](README_ja.md)
+
 **Post-Quantum Native Privacy Blockchain with Lightweight Pruned Nodes**
 
 > Sender anonymity · Receiver anonymity · Hidden amounts · Quantum-resistant · 3-min finality
@@ -44,7 +46,7 @@ Misaka Network is a Layer-1 blockchain designed around three principles:
 | Block time | 180 s (3 minutes) |
 | Block size target | 4 MB |
 | Transaction size | 50 – 200 KB |
-| Target throughput | 0.2 – 0.3 TPS |
+| Target throughput | 2 – 10 TPS |
 | Consensus | Tendermint-style BFT, 4–16 validators |
 | Signature | Falcon-512 (NIST PQC Standard) |
 | Ring signature | LaRRS (Module-LWE based) |
